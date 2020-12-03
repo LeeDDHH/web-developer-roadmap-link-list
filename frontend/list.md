@@ -163,6 +163,7 @@
 |:small_orange_diamond:|:white_large_square:|66|Bulma||
 
 ※Reactstrap、Material UI、Tailwind CSS、Chakra UIはJSベースなので、フレームワークベースのJavaScriptアプリと使うと良い
+
 ※Botstrap、Materialize CSS、BulmaはJavaScriptコンポーネントを前提としない、CSSファーストのフレームワーク
 
 ### アプリをテストする
