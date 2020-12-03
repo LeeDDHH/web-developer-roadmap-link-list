@@ -1,6 +1,17 @@
 # Frontend Roadmap
 [ロードマップリンク](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/japanese#frontend-roadmap)
 
+## 凡例
+|記号|意味|
+|--|--|
+|:zap:|オススメ|
+|:small_orange_diamond:|他の選択肢|
+|:black_joker:|いつ学んでもよい|
+|:confused:|オススメしない|
+
+## ロードマップ
+
+### :zap: インターネット
 |おすすめ度|チェック|項|名|備考|
 |--|--|--|--|--|
 |:zap:|||<h2>インターネット</h2>||
@@ -12,11 +23,11 @@
 |:zap:|:white_large_square:|6|ホスティングとは？||
 ||||<h2>HTML</h2>||
 |:zap:|:white_large_square:|7|基礎を学ぶ||
-|:low_brightness:|:white_large_square:|8|セマンティックHTMLを書く||
+|:black_joker:|:white_large_square:|8|セマンティックHTMLを書く||
 |:zap:|:white_large_square:|9|フォームとバリデーション||
 |:zap:|:white_large_square:|10|規約とベストプラクティス||
-|:low_brightness:|:white_large_square:|11|アクセシビリティ||
-|:low_brightness:|:white_large_square:|12|SEOと基礎||
+|:black_joker:|:white_large_square:|11|アクセシビリティ||
+|:black_joker:|:white_large_square:|12|SEOと基礎||
 ||||<h2>CSS</h2>||
 |:zap:|:white_large_square:|13|基礎を学ぶ||
 |:zap:|:white_large_square:|14|レイアウトを組む||
