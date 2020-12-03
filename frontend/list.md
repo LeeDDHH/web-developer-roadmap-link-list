@@ -66,12 +66,14 @@
 |:black_joker:|:white_large_square:|27|Content Security Policy||
 |:black_joker:|:white_large_square:|28|CORS||
 |:black_joker:|:white_large_square:|29|OWASP Security Risks||
+※これら全てについて基本的な知識は得ておきましょう
 
 ### パッケージマネージャー
 |おすすめ度|チェック|項|名|備考|
 |--|--|--|--|--|
 |:zap:|:white_large_square:|30|npm||
 |:zap:|:white_large_square:|31|yarn||
+※片方か両方学びましょう
 
 ### CSSアーキテクチャ
 |おすすめ度|チェック|項|名|備考|
@@ -79,6 +81,7 @@
 |:black_joker:|:white_large_square:|32|BEM||
 |:confused:|:white_large_square:|33|OOCSS||
 |:confused:|:white_large_square:|34|SMACSS||
+※最近のフレームワークやフレームワークやCSS-in-JSを使えば、これらについて悩む必要はないが、BEMは知識として持っておきましょう
 
 ### CSSプリプロセッサ
 |おすすめ度|チェック|項|名|備考|
@@ -86,6 +89,7 @@
 |:black_joker:|:white_large_square:|35|Sass||
 |:black_joker:|:white_large_square:|36|PostCSS||
 |:confused:|:white_large_square:|37|Less||
+※最近のフレームワークやフレームワークやCSS-in-JSへの取り組みのおかげで、これらは不要かもしれませんが、慣れ親しんでおくと良いでしょう
 
 ### ビルドツール
 ### タスクランナー
@@ -153,6 +157,8 @@
 |:zap:|:white_large_square:|64|Bootstrap||
 |:small_orange_diamond:|:white_large_square:|65|Materialize CSS||
 |:small_orange_diamond:|:white_large_square:|66|Bulma||
+※Reactstrap、Material UI、Tailwind CSS、Chakra UIはJSベースなので、フレームワークベースのJavaScriptアプリと使うと良い
+※Botstrap、Materialize CSS、BulmaはJavaScriptコンポーネントを前提としない、CSSファーストのフレームワーク
 
 ### アプリをテストする
 |おすすめ度|チェック|項|名|備考|
@@ -239,8 +245,5 @@
 |:zap:|:white_large_square:|108|Proton Native||
 
 ### :black_joker: Web Assembly
-|おすすめ度|チェック|項|名|備考|
-|--|--|--|--|--|
-|:black_joker:|||<h2>Web Assembly</h2>||
 
 ### 学び続ける
