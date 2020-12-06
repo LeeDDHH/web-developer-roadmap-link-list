@@ -14,10 +14,10 @@
 ### :zap: インターネット
 |おすすめ度|チェック|項|名|備考|
 |--|--|--|--|--|
-|:zap:|:white_large_square:|1|インターネットの仕組み||
+|:zap:|:white_large_square:|1|[インターネットの仕組み](internet/1_internet_work.md)||
 |:zap:|:white_large_square:|2|HTTPとは？||
 |:zap:|:white_large_square:|3|ブラウザと、その動作||
-|:zap:|:white_large_square:|4|DNSと、その動作||
+|:zap:|:white_large_square:|4|[DNSと、その動作](internet/4_dns.md)||
 |:zap:|:white_large_square:|5|ドメイン名とは？||
 |:zap:|:white_large_square:|6|ホスティングとは？||
 
